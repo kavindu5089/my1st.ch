@@ -1,0 +1,10 @@
+body {
+    background-color: #f0f0f0; /* Light gray background */
+    font-family: Arial, sans-serif;
+  }
+  
+h1 {
+    color: #333; /* Dark gray text */
+    font-size: 36px;
+    font-weight: bold;
+  }
